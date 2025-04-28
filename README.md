@@ -9,7 +9,7 @@ Este proyecto es una aplicación básica en PHP que permite registrar, listar y 
  
 2. **Configurar la base de datos**
    
-4. **Crear una base de datos llamada citas_medicas.**
+4. **Crear una base de datos llamada citas_medicas a partir del script encontrado.**
   
 5. **Configurar conexión a la base de datos con usuario root y sin contraseña**
 
